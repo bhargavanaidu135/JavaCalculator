@@ -25,7 +25,7 @@ public class Calculator {
 	
 	public long subFucn(long first, long second){
 		
-		return secondfirst;
+		return second-first;
 	}
 	
 	public long mulFucn(long first, long second){
